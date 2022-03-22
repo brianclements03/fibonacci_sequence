@@ -1,1 +1,1 @@
-# A small repo to explore the Fibonacci sequence in python
+# A small repo to explore several example problems in python
